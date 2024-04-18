@@ -1,7 +1,7 @@
 # FLASK-APPBUILDER-TEST
 
-## flask-appbuilder app with github auth
-Custom auth is in the different branch.
+## flask-appbuilder app with custom auth
+Custom auth with login `admin` and password `admin`
 
 ## Installation
 
@@ -14,12 +14,6 @@ Clone this repo:
 ```
 git clone https://github.com/faked86/flask-appbuilder-test.git
 cd flask-appbuilder-test
-```
-
-Create `.env` file:
-```
-CLIENT_ID=GITHUB_CLIENT_ID
-CLIENT_SECRET=GITHUB_CLIENT_SECRET
 ```
 
 ## Usage
